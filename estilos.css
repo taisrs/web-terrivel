@@ -1,0 +1,8 @@
+* {
+    display: block;
+}
+
+#get-form,
+#post-form {
+    display: table;
+}
